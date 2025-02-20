@@ -1,4 +1,4 @@
-# 👩🏻‍💻 OLá, eu sou o Jefferson Rizzetto
+# 👩🏻‍💻 Olá, eu sou o Jefferson Rizzetto
 
 **`Desenvolvedor Web Junior`**
 
