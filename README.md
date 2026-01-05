@@ -1,84 +1,163 @@
-# 👩🏻‍💻 Olá, eu sou o Jefferson Rizzetto
+# 👩🏻‍💻 Jefferson Rizzetto
 
-**`Desenvolvedor Web Junior`**
-
-Me chamo Jefferson Rizzetto, tenho 36 anos e sou natural de São Paulo, SP. Formado em Engenharia Elétrica pela UNIP, atuei como engenheiro e responsável técnico por alguns anos, mas em Junho de 2024 decidi me reinventar. A busca por uma área alinhada ao que realmente gosto me levou à programação, onde encontrei a oportunidade de unir criatividade, lógica e inovação.
+**Desenvolvedor Full Stack em formação | JavaScript | React | Node.js | MySQL**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🇧🇷 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Olá! Me chamo **Jefferson Rizzetto**, sou formado em **Engenharia Elétrica** e estou em transição de carreira para a área de tecnologia.
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+Após alguns anos atuando como engenheiro e responsável técnico, decidi em 2024 me reinventar profissionalmente. A programação surgiu como um caminho natural, unindo lógica, criatividade e resolução de problemas — algo que sempre fez parte do meu perfil.
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+Atualmente, meu foco é o **desenvolvimento Full Stack**, com ênfase em **JavaScript**, **React**, **Node.js** e **MySQL**. Sou autodidata, consistente nos estudos e acredito muito na evolução construída passo a passo.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🎯 Objetivo
 
-### 📊 Estatísticas
+Atuar como **Desenvolvedor Full Stack**, participando de projetos onde eu possa evoluir tecnicamente, contribuir com soluções práticas e continuar aprendendo de forma contínua.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JRizzetto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRizzetto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🛠️ Tecnologias e Ferramentas
 
-</p>
+### Linguagens e Frameworks
+
+* JavaScript (ES6+)
+* React
+* Node.js
+* Express
+* MySQL
+
+### Estilização
+
+* CSS3
+* Bootstrap
+* Tailwind CSS
+
+### Ferramentas
+
+* Git & GitHub
+* Vite
+* npm
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🔗 Personal Portfolio Website
+
+**Tecnologias:** React, Tailwind CSS
+
+Projeto desenvolvido para apresentar minha trajetória, habilidades e projetos. Totalmente responsivo, com foco em boas práticas de componentização, organização de código e design limpo.
+
+👉 **Acesse:** [https://jrizzetto-portifolio-react.vercel.app/](https://jrizzetto-portifolio-react.vercel.app/)
+
+---
+
+## 📊 Estatísticas
+
+> *(As estatísticas abaixo refletem minha evolução contínua nos estudos e projetos.)*
+
+---
+
+## 🌍 Inglês
+
+* **Leitura:** ⭐⭐⭐⭐☆
+* **Listening:** ⭐⭐⭐☆☆
+* **Escrita:** ⭐⭐⭐☆☆
+* **Conversação:** ⭐⭐☆☆☆
+
+Venho evoluindo constantemente no inglês, inclusive com leitura de livros técnicos e de ficção no idioma, por entender a importância da língua na área de tecnologia.
+
+---
+
+## 🧠 Perfil de Aprendizado
+
+* Autodidata
+* Consistente nos estudos
+* Boa base em JavaScript
+* Aprendizado rápido
+* Mentalidade de crescimento
+
+---
+
+> *"Consistency builds skills. Skills build opportunities."*
+
+---
+
+# 🇺🇸 About Me
+
+Hi! My name is **Jefferson Rizzetto**. I have a degree in **Electrical Engineering** and I am currently transitioning my career into the technology field.
+
+After working for several years as an engineer and technical lead, I decided in 2024 to reinvent my professional path. Programming became a natural choice, combining logic, creativity, and problem-solving — qualities that have always been part of my profile.
+
+I am currently focused on **Full Stack Development**, with emphasis on **JavaScript**, **React**, **Node.js**, and **MySQL**. I am self-taught, consistent in my studies, and strongly believe in steady, long-term growth.
+
+---
+
+## 🎯 Career Goal
+
+To work as a **Full Stack Developer**, contributing to real-world projects while continuously improving my technical and professional skills.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages & Frameworks
+
+* JavaScript (ES6+)
+* React
+* Node.js
+* Express
+* MySQL
+
+### Styling
+
+* CSS3
+* Bootstrap
+* Tailwind CSS
+
+### Tools
+
+* Git & GitHub
+* Vite
+* npm
+
+---
+
+## 🚀 Featured Project
+
+### 🔗 Personal Portfolio Website
+
+**Technologies:** React, Tailwind CSS
+
+A personal portfolio developed to showcase my journey, skills, and projects. Fully responsive, focused on clean design, good component structure, and organized code.
+
+👉 **Live Demo:** [https://jrizzetto-portifolio-react.vercel.app/](https://jrizzetto-portifolio-react.vercel.app/)
+
+---
+
+## 🌍 English Skills
+
+* **Reading:** ⭐⭐⭐⭐☆
+* **Listening:** ⭐⭐⭐☆☆
+* **Writing:** ⭐⭐⭐☆☆
+* **Speaking:** ⭐⭐☆☆☆
+
+I continuously work on improving my English, including reading technical and fiction books, understanding its importance in the tech industry.
+
+---
+
+## 🧠 Learning Profile
+
+* Self-taught
+* Consistent learner
+* Strong JavaScript foundation
+* Fast learner
+* Growth mindset
+
+---
+
+> *"English is a journey, not a destination."*
