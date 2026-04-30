@@ -1,46 +1,55 @@
 # 👩🏻‍💻 Jefferson Rizzetto
 
-**Desenvolvedor Full Stack em formação | JavaScript | React | Node.js | MySQL**
+**Desenvolvedor Full Stack | JavaScript, React, Node.js | APIs & Integrações**
 
 ---
 
 ## 🇧🇷 Sobre mim
 
-Olá! Me chamo **Jefferson Rizzetto**, sou formado em **Engenharia Elétrica** e estou em transição de carreira para a área de tecnologia.
+Sou desenvolvedor full stack em transição de carreira, com formação em Engenharia Elétrica.
+Tenho foco em construção de aplicações web e integração entre sistemas utilizando APIs.
 
-Após alguns anos atuando como engenheiro e responsável técnico, decidi em 2024 me reinventar profissionalmente. A programação surgiu como um caminho natural, unindo lógica, criatividade e resolução de problemas — algo que sempre fez parte do meu perfil.
+Atualmente desenvolvo projetos com JavaScript, React e Node.js, com experiência prática em autenticação, validação de dados e comunicação entre front-end e back-end.
 
-Atualmente, meu foco é o **desenvolvimento Full Stack**, com ênfase em **JavaScript**, **React**, **Node.js** e **MySQL**. Sou autodidata, consistente nos estudos e acredito muito na evolução construída passo a passo.
+Busco minha primeira oportunidade para atuar com desenvolvimento, contribuindo com soluções práticas e evoluindo continuamente.
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedor Full Stack**, participando de projetos onde eu possa evoluir tecnicamente, contribuir com soluções práticas e continuar aprendendo de forma contínua.
+Atuar como desenvolvedor, trabalhando com APIs, integrações e aplicações web, contribuindo na resolução de problemas reais e evoluindo constantemente na área.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens e Frameworks
+🧠 Linguagens
+JavaScript (ES6+)
+TypeScript
 
-* JavaScript (ES6+)
-* React
-* Node.js
-* Express
-* MySQL
+⚛️ Front-end
+React
+Next.js (App Router)
+Tailwind CSS
+⚙️ Back-end
+Node.js
+REST APIs
+Prisma ORM
 
-### Estilização
+🗄️ Banco de Dados
+PostgreSQL
 
-* CSS3
-* Bootstrap
-* Tailwind CSS
+🔐 Autenticação
+Auth.js (NextAuth)
+JWT
+bcrypt
+Zod
 
-### Ferramentas
-
-* Git & GitHub
-* Vite
-* npm
+🛠️ Ferramentas
+Git & GitHub
+npm
+Vercel
+Neon
 
 ---
 
@@ -56,18 +65,29 @@ Projeto desenvolvido para apresentar minha trajetória, habilidades e projetos. 
 
 ---
 
-## 📊 Estatísticas
+### 🔗 Task Manager SaaS
 
-> *(As estatísticas abaixo refletem minha evolução contínua nos estudos e projetos.)*
+**Tecnologias:** Next.js, TypeScript, Prisma, PostgreSQL, Auth.js, Tailwind CSS
+
+Aplicação full stack desenvolvida do zero para simular um produto real de gerenciamento de tarefas. O sistema permite autenticação segura de usuários e gerenciamento completo de tarefas com operações de criação, leitura, atualização e exclusão (CRUD).
+
+O projeto inclui implementação de autenticação com sessão, hash de senhas, validação de dados e proteção de rotas, garantindo que cada usuário acesse apenas suas próprias informações.
+
+👉 **Acesse:** https://meus-projetos-full-stack-portifolio.vercel.app/
+
+👉 **Código:** https://github.com/JRizzetto/meus-projetos-full-stack-portifolio/tree/main/projeto-01-task-manager-saas
 
 ---
 
 ## 🌍 Inglês
 
+Inglês intermediário-avançado (B2)
+Foco em leitura técnica, listening e conversação
+
 * **Leitura:** ⭐⭐⭐⭐☆
-* **Listening:** ⭐⭐⭐☆☆
-* **Escrita:** ⭐⭐⭐☆☆
-* **Conversação:** ⭐⭐☆☆☆
+* **Listening:** ⭐⭐⭐⭐☆
+* **Escrita:** ⭐⭐⭐⭐☆
+* **Conversação:** ⭐⭐⭐⭐☆
 
 Venho evoluindo constantemente no inglês, inclusive com leitura de livros técnicos e de ficção no idioma, por entender a importância da língua na área de tecnologia.
 
@@ -84,79 +104,6 @@ Venho evoluindo constantemente no inglês, inclusive com leitura de livros técn
 ---
 
 > *"Consistency builds skills. Skills build opportunities."*
-
----
-
-# 🇺🇸 About Me
-
-Hi! My name is **Jefferson Rizzetto**. I have a degree in **Electrical Engineering** and I am currently transitioning my career into the technology field.
-
-After working for several years as an engineer and technical lead, I decided in 2024 to reinvent my professional path. Programming became a natural choice, combining logic, creativity, and problem-solving — qualities that have always been part of my profile.
-
-I am currently focused on **Full Stack Development**, with emphasis on **JavaScript**, **React**, **Node.js**, and **MySQL**. I am self-taught, consistent in my studies, and strongly believe in steady, long-term growth.
-
----
-
-## 🎯 Career Goal
-
-To work as a **Full Stack Developer**, contributing to real-world projects while continuously improving my technical and professional skills.
-
----
-
-## 🛠️ Technologies & Tools
-
-### Languages & Frameworks
-
-* JavaScript (ES6+)
-* React
-* Node.js
-* Express
-* MySQL
-
-### Styling
-
-* CSS3
-* Bootstrap
-* Tailwind CSS
-
-### Tools
-
-* Git & GitHub
-* Vite
-* npm
-
----
-
-## 🚀 Featured Project
-
-### 🔗 Personal Portfolio Website
-
-**Technologies:** React, Tailwind CSS
-
-A personal portfolio developed to showcase my journey, skills, and projects. Fully responsive, focused on clean design, good component structure, and organized code.
-
-👉 **Live Demo:** [https://jrizzetto-portifolio-react.vercel.app/](https://jrizzetto-portifolio-react.vercel.app/)
-
----
-
-## 🌍 English Skills
-
-* **Reading:** ⭐⭐⭐⭐☆
-* **Listening:** ⭐⭐⭐☆☆
-* **Writing:** ⭐⭐⭐☆☆
-* **Speaking:** ⭐⭐☆☆☆
-
-I continuously work on improving my English, including reading technical and fiction books, understanding its importance in the tech industry.
-
----
-
-## 🧠 Learning Profile
-
-* Self-taught
-* Consistent learner
-* Strong JavaScript foundation
-* Fast learner
-* Growth mindset
 
 ---
 
